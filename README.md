@@ -4,9 +4,14 @@ A simple Pygame program where a rectangle can move and jump within a window.
 
 ## Description
 
-This program demonstrates basic game development concepts using Pygame. 
+This project demonstrates simple rectangle movement using the Pygame library in Python.
 
-The player-controlled rectangle can move left, right using the arrow keys. Additionally, it can jump when the spacebar is pressed.
+The program creates a window where the user can control the movement of a rectangle using the arrow keys. 
+
+The background color is set to a soothing light blue, and the rectangle is rendered in a charming pastel pink color.
+
+The movement is smooth, thanks to a frame rate cap of 60 frames per second.
+
 
 ## Tech Used 
 
