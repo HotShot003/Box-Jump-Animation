@@ -10,10 +10,12 @@ screen = py.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 py.display.set_caption("Rectangle Move and Jump")
 
 # Define colors
-# BLACK = (0, 0, 0)
-# GOLD = (255, 215, 0)
+BLACK = (0, 0, 0)
+GOLD = (255, 215, 0)
 BLUE = (65, 105, 225)  # Royal Blue
 SILVER = (192, 192, 192)  # Silver
+# BLUE = (102, 204, 255)        # Light blue
+PASTEL_PINK = (255, 204, 204) # Pastel pink
 
 
 
