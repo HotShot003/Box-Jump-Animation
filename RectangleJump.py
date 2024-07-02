@@ -70,8 +70,8 @@ while run:
         player.y = SCREEN_HEIGHT - player_height
 
     # Draw everything
-    screen.fill(SILVER)
-    py.draw.rect(screen, BLUE, player)
+    screen.fill(BLACK)
+    py.draw.rect(screen, GOLD, player)
     py.display.update()
 
     # Cap the frame rate

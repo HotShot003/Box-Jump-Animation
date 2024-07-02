@@ -38,10 +38,11 @@ After installing Pygame, simply run the RectangleJump.py file.
 
 ## Controls
 
-Use the arrow keys to move the rectangle.
+Use the arrow Left and Right keys to move the rectangle in Left Or Right Direction.
 
 Press the spacebar to make the rectangle jump.
 
 
 ## Credits
+
 Created by HotShot003(Anurag Padhiyar)
