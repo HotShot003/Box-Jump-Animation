@@ -14,7 +14,7 @@ BLACK = (0, 0, 0)
 GOLD = (255, 215, 0)
 BLUE = (65, 105, 225)  # Royal Blue
 SILVER = (192, 192, 192)  # Silver
-# BLUE = (102, 204, 255)        # Light blue
+BLUE = (102, 204, 255)        # Light blue
 PASTEL_PINK = (255, 204, 204) # Pastel pink
 
 
